@@ -9,6 +9,14 @@
   * @url https://github.com/dfrobot/DFRobot_C4001
   */
 
+
+// Radar code
+// Edited from DFRobot example code for theSEN0609_C4001_mmWave_Presence_Sensor_25m
+// runs on an Arduino Uno
+// Artist / Creative Director: Elgin Rust
+// Technical Direction and Arduino code by Duncan Greenwood, possibly with help from Rikus Wessels
+
+
 #include "DFRobot_C4001.h"
 
 //#define I2C_COMMUNICATION  //use I2C for communication, but use the serial port for communication if the line of codes were masked

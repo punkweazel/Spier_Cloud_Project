@@ -1,5 +1,7 @@
 // transmitter code
 // runs on a Seeed Xiao NRF52840 Sense
+// Artist / Creative Director: Elgin Rust
+// Technical Direction and Arduino code by Duncan Greenwood, possibly with help from Rikus Wessels
 
 
 #include <ArduinoBLE.h>
